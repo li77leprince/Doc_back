@@ -49,3 +49,13 @@ wget http://openwrt-dist.sourceforge.net/auto_install_lede.sh -O /tmp/auto_insta
 chmod +x /tmp/auto_install_lede.sh
 /tmp/auto_install_lede.sh  # 执行此步骤时候按照提示，选择安装shadowsocks,chinadns以及dns-forwarder
 opkg install ip-full iptables-mod-tproxy
+
+
+
+
+CPU Atheros AR7161 rev 2
+内存 128MB SDRAM
+闪存 Macronix MX25L12805D @ 28MHz (16MB)
+以太网 Realtek RTL8366S/SR ver 1
+系统频率 CPU: 680MHz, DDR: 340MHz, AHB: 170MHz, Ref: 40MHz
+编译日期 2014-10-07 21:11:07 +08:00
